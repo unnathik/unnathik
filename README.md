@@ -1,7 +1,6 @@
-- 👋 Hi, I’m @unnathik
-- 👀 I’m interested in ML, AI, and edtech. 
-- 🌱 I’m currently learning Python for machine learning. 
-- 💞️ I’m looking to collaborate on any cool projects you might have in mind!
+- cs major (graduating 2025) at georgia tech 
+- interested in math, nlp, and edtech 
+- currently seeking internships for summer 2023! 
 
 <!---
 unnathik/unnathik is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
