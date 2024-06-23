@@ -1,4 +1,5 @@
-- junior majoring in cs (+ econ minor) at georgia tech 
+- currently: swe intern @ linkedin
+- rising senior majoring in cs (+ econ minor) at georgia tech 
 - interested in econ, cs for social good, and edtech 
 - previously: software engineer intern @ hewlett packard enterprise, messagegears
 
